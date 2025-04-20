@@ -1,0 +1,3 @@
+"""
+LexVi package initialization
+""" 
